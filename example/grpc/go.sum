@@ -21,6 +21,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.0/go.mod h1:TzP6duP4Py2pHLVPPQp4
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/objx v0.5.0 h1:1zr/of2m5FGMsad5YfcqgdqdWrIhu+EBEJRhR1U7z/c=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/uptrace/opentelemetry-go-extra/example/grpc v0.0.0-20230927132254-470094756695 h1:avYfoLk2H6okCNT+uFDiW/HjJoVmfiY+zQc44RSg73M=
+github.com/uptrace/opentelemetry-go-extra/example/grpc v0.0.0-20230927132254-470094756695/go.mod h1:13vkhHjNhbUhoPKfWgbPuDxCrlcpYEEVq/lJ2GDap8Q=
 github.com/uptrace/uptrace-go v1.18.0 h1:RY15qy19C0irbe2UCxQbjenk8WyUdvUV756R9ZpqCGI=
 github.com/uptrace/uptrace-go v1.18.0/go.mod h1:BUW3sFgEyRmZIxts4cv6TGaJnWAW95uW78GIiSdChOQ=
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.42.0 h1:ZOLJc06r4CB42laIXg/7udr0pbZyuAihN10A/XuiQRY=

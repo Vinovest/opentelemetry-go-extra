@@ -1,11 +1,12 @@
-module github.com/uptrace/opentelemetry-go-extra/example/grpc
+module github.com/vinovest/opentelemetry-go-extra/example/grpc
 
-go 1.18
+go 1.19
 
 replace github.com/uptrace/opentelemetry-go-extra/otelplay => ../../otelplay
 
 require (
 	github.com/golang/protobuf v1.5.3
+	github.com/uptrace/opentelemetry-go-extra/example/grpc v0.0.0-20230927132254-470094756695
 	github.com/uptrace/opentelemetry-go-extra/otelplay v0.2.3
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.42.0
 	go.opentelemetry.io/otel/trace v1.18.0

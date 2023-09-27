@@ -1,6 +1,6 @@
-module github.com/uptrace/opentelemetry-go-extra/example/beego
+module github.com/vinovest/opentelemetry-go-extra/example/beego
 
-go 1.18
+go 1.19
 
 replace github.com/uptrace/opentelemetry-go-extra/otelplay => ../../otelplay
 
@@ -22,8 +22,8 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.0 // indirect
 	github.com/hashicorp/golang-lru v1.0.2 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
-	github.com/prometheus/client_golang v1.16.0 // indirect
-	github.com/prometheus/client_model v0.4.0 // indirect
+	github.com/prometheus/client_golang v1.17.0 // indirect
+	github.com/prometheus/client_model v0.4.1-0.20230718164431-9a2bf3000d16 // indirect
 	github.com/prometheus/common v0.44.0 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/shiena/ansicolor v0.0.0-20230509054315-a9deabde6e02 // indirect

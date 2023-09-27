@@ -1,6 +1,6 @@
-module github.com/uptrace/opentelemetry-go-extra/example/echo
+module github.com/vinovest/opentelemetry-go-extra/example/echo
 
-go 1.18
+go 1.19
 
 replace github.com/uptrace/opentelemetry-go-extra/otelplay => ../../otelplay
 

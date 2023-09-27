@@ -1,6 +1,6 @@
-module github.com/uptrace/opentelemetry-go-extra/example/net-http
+module github.com/vinovest/opentelemetry-go-extra/example/net-http
 
-go 1.18
+go 1.19
 
 replace github.com/uptrace/opentelemetry-go-extra/otelplay => ../../otelplay
 

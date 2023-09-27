@@ -1,6 +1,6 @@
-module github.com/uptrace/opentelemetry-go-extra/example/mongo-driver
+module github.com/vinovest/opentelemetry-go-extra/example/mongo-driver
 
-go 1.18
+go 1.19
 
 replace github.com/uptrace/opentelemetry-go-extra/otelplay => ../../otelplay
 
