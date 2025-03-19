@@ -2,7 +2,7 @@
 
 # sqlx instrumentation for OpenTelemetry Go
 
-otelsqlx instrumentation records [sqlx](https://github.com/jmoiron/sqlx) queries (including `Tx` and
+otelsqlx instrumentation records [sqlx](https://github.com/vinovest/sqlx) queries (including `Tx` and
 `Stmt` queries) and reports `DBStats` metrics.
 
 ```shell

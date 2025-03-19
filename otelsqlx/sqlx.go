@@ -3,7 +3,7 @@ package otelsqlx
 import (
 	"context"
 
-	"github.com/jmoiron/sqlx"
+	"github.com/vinovest/sqlx"
 
 	"github.com/uptrace/opentelemetry-go-extra/otelsql"
 )
